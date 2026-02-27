@@ -1,0 +1,107 @@
+ABCD AI — Pricing & Plans
+
+Overview
+ABCD AI offers a usage-based SaaS pricing model designed for growing sales and marketing teams. 
+Customers are billed monthly based on subscription tier plus usage overages where applicable.
+
+------------------------------------------------------------
+
+Starter Plan
+Price: $49 per month
+
+Best for: Small teams and early-stage startups.
+
+Includes:
+- Up to 5 team members
+- 10,000 AI query credits per month
+- Document upload (up to 200 documents)
+- Basic analytics dashboard
+- Email support
+
+Overage:
+Additional AI credits are billed at $0.005 per credit.
+
+------------------------------------------------------------
+
+Growth Plan
+Price: $149 per month
+
+Best for: Scaling B2B teams.
+
+Includes:
+- Up to 20 team members
+- 50,000 AI query credits per month
+- Unlimited document uploads
+- Advanced analytics dashboard
+- CRM integration (HubSpot, Salesforce)
+- Priority email & chat support
+
+Overage:
+Additional AI credits are billed at $0.004 per credit.
+
+------------------------------------------------------------
+
+Enterprise Plan
+Price: Custom pricing (contact sales)
+
+Best for: Large organizations with advanced needs.
+
+Includes:
+- Unlimited team members
+- Unlimited AI query credits (fair usage policy applies)
+- Dedicated account manager
+- Custom integrations
+- On-premise deployment option
+- SLA with 99.9% uptime guarantee
+- SSO & advanced security features
+
+Overage:
+Enterprise plans are negotiated individually. 
+Custom usage limits and volume discounts may apply.
+
+------------------------------------------------------------
+
+Free Trial
+ABCD AI offers a 14-day free trial for all new customers.
+No credit card required.
+Trial includes full access to Growth Plan features with a limit of 5,000 AI query credits.
+
+------------------------------------------------------------
+
+Discounts
+Annual billing receives a 20% discount compared to monthly billing.
+Non-profit organizations may apply for additional discounts.
+
+------------------------------------------------------------
+
+Refund Policy
+All paid subscriptions are non-refundable after 7 days of purchase.
+Enterprise contracts follow custom refund terms defined in the agreement.
+
+------------------------------------------------------------
+
+Add-ons
+- Extra AI credits pack: $100 for 25,000 credits
+- Dedicated onboarding support: $1,000 one-time fee
+- Custom model fine-tuning: Contact sales
+
+------------------------------------------------------------
+
+Support Levels
+Starter: Email support (48-hour response time)
+Growth: Priority email & chat (24-hour response time)
+Enterprise: Dedicated account manager + 4-hour SLA
+
+------------------------------------------------------------
+
+Security & Compliance
+- SOC 2 compliant infrastructure
+- Data encryption at rest and in transit
+- Role-based access control
+- Audit logs available on Enterprise plan
+
+------------------------------------------------------------
+
+Contact
+For custom pricing, enterprise demos, or procurement inquiries:
+sales@ABCD.ai
