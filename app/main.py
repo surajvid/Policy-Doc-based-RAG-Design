@@ -3,7 +3,7 @@ main.py
 
 This is the entry point of the application.
 
-Non-technical explanation:
+
 - This starts a small web server.
 - A web server exposes "endpoints" (URLs) that someone can call.
 - Example endpoint: GET /health
