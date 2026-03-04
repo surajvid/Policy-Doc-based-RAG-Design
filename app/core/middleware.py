@@ -1,7 +1,7 @@
 """
 middleware.py
 
-Non-technical explanation:
+
 - Middleware runs "around" every API request.
 - It allows us to log:
   - which endpoint was called
