@@ -1,7 +1,7 @@
 """
 loaders.py
 
-Non-technical explanation:
+
 - Our AI cannot directly "read" a PDF file like a human.
 - So we first convert the file into plain text.
 
