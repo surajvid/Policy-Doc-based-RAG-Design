@@ -1,7 +1,7 @@
 """
 chunking.py
 
-Non-technical explanation:
+
 - A long document is too large to search and send to AI directly.
 - So we split it into smaller pieces called "chunks".
 
