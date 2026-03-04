@@ -3,7 +3,6 @@ config.py
 
 This file is the "settings room" of our app.
 
-Non-technical explanation:
 - Think of this like the app's control panel.
 - It reads values from environment variables (like OPENAI_API_KEY).
 - We use these values so we don't hardcode secrets or paths in code.
