@@ -45,7 +45,7 @@ def on_startup():
     """
     This runs automatically when the API starts.
 
-    Non-technical explanation:
+  
     - We ensure the uploads folder exists.
     - This avoids errors later when someone uploads a file.
     """
@@ -58,7 +58,7 @@ def health():
     """
     Health check endpoint.
 
-    Non-technical explanation:
+    
     - This is like asking: "Are you alive?"
     - If it returns status 'ok', the service is running.
     """
@@ -70,7 +70,7 @@ async def upload_document(file: UploadFile = File(...)):
     """
     Upload a document to the server.
 
-    Non-technical explanation:
+    
     - This is like a "dropbox" where you can upload a file.
     - The server receives the file and saves it in our uploads folder.
 
@@ -111,7 +111,7 @@ def preview_chunks(filename: str):
     """
     Preview how a document gets split into chunks.
 
-    Non-technical explanation:
+    
     - This endpoint does NOT use AI.
     - It just shows:
         1) the extracted text length
