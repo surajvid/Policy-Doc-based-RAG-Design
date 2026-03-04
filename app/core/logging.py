@@ -1,7 +1,7 @@
 """
 logging.py
 
-Non-technical explanation:
+
 - Logging is like keeping a "black box recorder" for the app.
 - When something goes wrong, logs help us see what happened.
 
